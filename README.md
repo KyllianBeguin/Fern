@@ -1,2 +1,2 @@
 # Fern
-A CSV Parser written in Ruste
+A CSV Parser written in Rust
